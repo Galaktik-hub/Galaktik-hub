@@ -3,7 +3,11 @@
 
 # 🇺🇸 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
-### My projects
+## About myself
+
+
+
+## My projects
 
 - [x] Luciol bot for Discord
 - [ ] Website to promote UNESCO's World Heritage: Memphis and its necropolis
@@ -16,3 +20,5 @@
 
 # 🇪🇸
 
+
+From [Galaktik-hub](https://github.com/Galaktik-hub)
