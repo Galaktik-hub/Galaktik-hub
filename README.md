@@ -2,7 +2,7 @@
 > This README file is in progress, please stay tuned.
 
 
-### This Read Me file is also available in: [🇫🇷 Français](README_fr.md) [🇯🇵 日本語](README_jp.md) [🇪🇸 Espagñol](README_es.md)
+### This Read Me file is also available in: [🇫🇷 Français](README_fr.md) • [🇯🇵 日本語](README_jp.md) • [🇪🇸 Espagñol](README_es.md)
 
 # About myself
 
