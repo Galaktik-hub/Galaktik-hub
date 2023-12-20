@@ -13,6 +13,7 @@
 - [x] Luciol bot for Discord
 - [ ] Website to promote UNESCO's World Heritage: Memphis and its necropolis
 - [ ] Make a copy of the Qix videogame (1981)
+- [ ] Simple Minesweeper game in Python
 - [ ] README.md file maker in Python
 
 
