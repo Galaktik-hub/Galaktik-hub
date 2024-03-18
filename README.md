@@ -6,7 +6,7 @@
 
 ## About myself
 
-I'm a french student currently studying computer science. I am currently able to code in Python, Java, C, SQL, HTML/CSS.
+I'm a french student currently studying computer science. I am currently able to code in Python, Java, C, SQL, HTML/CSS and PHP.
 
 ## My projects
 
