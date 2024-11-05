@@ -2,8 +2,10 @@
 ### This Read Me file is also available in: [🇫🇷 Français](README_fr.md) • [🇯🇵 日本語](README_jp.md) • [🇪🇸 Español](README_es.md)
 
 # 💫 About Me:
-🔭 I'm currently working on several university projects <br>
-🌱 I’m currently learning machine learning
+🔭 I'm currently working on several university projects<br>
+🌱 I’m currently learning machine learning<br>
+📝 I'm studying at the Université Gustave Eiffel and following a computer science course<br>
+💼 I'm currently working as an Apprentice Software Developer at Thales<br>
 
 # My projects 🛠️
 - [x] 🏰 [Unesco website](https://github.com/Galaktik-hub/sae-unesco): In partnership with UNESCO and in groups of 4, we created a website to promote UNESCO world heritage sites, such as Memphis in Egypt.
