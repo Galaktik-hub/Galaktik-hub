@@ -16,6 +16,8 @@ I'm a french student currently studying computer science. I am currently able to
 - [ ] Number recognizer with canva in Python
 
 
-[![Les Stats GitHub de Galaktik-hub](https://github-readme-stats.vercel.app/api?username=Galaktik-hub)](https://github.com/anuraghazra/github-readme-stats)
+## My stats 📊
+<img align="left" width="47%" alt="Galaktik's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Galaktik-hub&show_icons=true&theme=tokyonight"/>
+<img align="left" width="42%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaktik-hub&layout=compact&&langs_count=10&theme=tokyonight"/>
 
 From [Galaktik-hub](https://github.com/Galaktik-hub)
