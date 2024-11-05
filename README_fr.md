@@ -2,10 +2,10 @@
 ### Ce fichier readme est aussi disponible en: [🇺🇸 English](README.md) • [🇯🇵 日本語](README_jp.md) • [🇪🇸 Español](README_es.md)
 
 # 💫 À propos de moi:
-🔭 Je suis actuellement en train de travailler sur divers projets universitaires <br>
-🌱 Je suis en train d'apprendre l'intelligence artificelle
-📝 Je suis un cursus de BUT Informatique à l'université Gustave Eiffel
-💼 Je travaille actuellement en tant qu'Apprenti Développeur Logiciel chez Thales
+🔭 Je suis actuellement en train de travailler sur divers projets universitaires<br>
+🌱 Je suis en train d'apprendre l'intelligence artificelle<br>
+📝 Je suis un cursus de BUT Informatique à l'université Gustave Eiffel<br>
+💼 Je travaille actuellement en tant qu'Apprenti Développeur Logiciel chez Thales<br>
 
 # Mes projets 🛠️
 - [x] 🏰 [Unesco website](https://github.com/Galaktik-hub/sae-unesco): En partenariat avec l'UNESCO et par groupe de 4, nous avons créé un site afin de promouvoir le patrimoine mondiale de l'UNESCO, notamment la ville de Memphis en Égypte.
