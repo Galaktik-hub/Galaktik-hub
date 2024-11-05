@@ -2,7 +2,7 @@
 ### This Read Me file is also available in: [🇫🇷 Français](README_fr.md) • [🇯🇵 日本語](README_jp.md) • [🇪🇸 Español](README_es.md)
 
 # 💫 About Me:
-🔭 I am currently working on several university projects <br>
+🔭 I'm currently working on several university projects <br>
 🌱 I’m currently learning machine learning
 
 # My projects 🛠️
