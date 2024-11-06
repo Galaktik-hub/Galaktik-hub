@@ -7,7 +7,7 @@
 📝 Je suis un cursus de BUT Informatique à l'université Gustave Eiffel<br>
 💼 Je travaille actuellement en tant qu'Apprenti Développeur Logiciel chez Thales<br>
 
-# Mes projets 🛠️
+# 🛠️ Mes projets:
 - [x] 🏰 [Unesco website](https://github.com/Galaktik-hub/sae-unesco): En partenariat avec l'UNESCO et par groupe de 4, nous avons créé un site afin de promouvoir le patrimoine mondiale de l'UNESCO, notamment la ville de Memphis en Égypte.
 - [x] ⚙️ [Graphs & Algorithms](https://github.com/Galaktik-hub/automates): J'ai créé un programme en Python qui permet de créer des automates et de tester des algorithmes dessus.
 - [ ] 💰 [Banking app](https://github.com/Galaktik-hub/banque-tran): Par groupe de 5, nous créeons une application permettant à des clients, tels que des entreprises, de gérer leurs remises et impayés.
