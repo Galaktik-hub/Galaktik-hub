@@ -7,7 +7,7 @@
 📝 I'm studying at the Université Gustave Eiffel and following a computer science course<br>
 💼 I'm currently working as an Apprentice Software Developer at Thales<br>
 
-# My projects 🛠️
+# 🛠️ My projects:
 - [x] 🏰 [Unesco website](https://github.com/Galaktik-hub/sae-unesco): In partnership with UNESCO and in groups of 4, we created a website to promote UNESCO world heritage sites, such as Memphis in Egypt.
 - [x] ⚙️ [Graphs & Algorithms](https://github.com/Galaktik-hub/automates): I created a small python program that let you define automats and apply algorithms on them.
 - [ ] 💰 [Banking app](https://github.com/Galaktik-hub/banque-tran): In groups of 5, we are creating an app that lets clients such as companies to manages their bills.
