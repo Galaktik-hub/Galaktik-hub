@@ -1,5 +1,5 @@
 
-### この Readme ファイルは [🇺🇸 English](README.md)　•　[🇯🇵 日本語](README_jp.md)　•　[🇪🇸 Español](README_es.md)もあります。
+### この Readme ファイルは [🇫🇷 Français](README_fr.md)　•　[🇺🇸 English](README.md)  •　[🇪🇸 Español](README_es.md)もあります。
 
 # 💫 私について
 🔭 現在、様々な大学のプロジェクトに携わっています。<br>
