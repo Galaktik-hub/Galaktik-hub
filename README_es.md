@@ -8,7 +8,7 @@
 💼 Actualmente estoy trabajando como Aprendiz de Desarrollador de Software en Thales.
 
 # 🛠️ Mis proyectos
-- [x] 📖 [Wikilinks](B2-S4-Wikilinks) : Un juego en el que tienes que vagar por los enlaces de los artículos de Wikipedia, tratando de encontrar la ruta más rápida a los artículos de destino. Tu aventura estará salpicada de diversos artefactos ocultos que te ayudarán, ¡o te engañarán!
+- [x] 📖 [Wikilinks](https://github.com/Galaktik-hub/B2-S4-Wikilinks) : Un juego en el que tienes que vagar por los enlaces de los artículos de Wikipedia, tratando de encontrar la ruta más rápida a los artículos de destino. Tu aventura estará salpicada de diversos artefactos ocultos que te ayudarán, ¡o te engañarán!
 - [x] 🪐 [O.R.B.I.T.](https://github.com/Galaktik-hub/B2-S3-ORBIT): La plataforma de reservas de vuelos espaciales, donde podrás reservar vuelos a varios planetas del universo Star Wars.
 - [x] 🗒️ [Editor de texto](https://github.com/Galaktik-hub/text-editor): Un sencillo editor de texto que te permite crear, editar y guardar archivos. Incluye funciones básicas como resaltado de sintaxis y gestión de archivos. Hecho exclusivamente en C.
 - [x] 📊 [SortVisu](https://github.com/Galaktik-hub/sortvisu): Un visor de algoritmos de ordenación que permite ver cómo funcionan diferentes algoritmos en tiempo real. Realizado exclusivamente en C.

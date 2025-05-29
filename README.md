@@ -8,7 +8,7 @@
 💼 I'm currently working as an Apprentice Software Developer at Thales<br>
 
 # 🛠️ My projects
-- [x] 📖 [Wikilinks](B2-S4-Wikilinks): A game where you have to wander throught the links of Wikipedia articles trying to find the quickest path to the target articles. Your adventure will be rythmed by a variety of artefact to help you, or to trick you !
+- [x] 📖 [Wikilinks](https://github.com/Galaktik-hub/B2-S4-Wikilinks): A game where you have to wander throught the links of Wikipedia articles trying to find the quickest path to the target articles. Your adventure will be rythmed by a variety of artefact to help you, or to trick you !
 - [x] 🪐 [O.R.B.I.T.](https://github.com/Galaktik-hub/B2-S3-ORBIT): The space flight booking platform, where you can book flights to various planets in the Star Wars universe.
 - [x] 🗒️ [Text Editor](https://github.com/Galaktik-hub/text-editor): A simple text editor that allows you to create, edit, and save text files. It includes basic features such as syntax highlighting and file management. Exclusively made in C.
 - [x] 📊 [SortVisu](https://github.com/Galaktik-hub/sortvisu): A sorting algorithm visualizer that allows you to see how different sorting algorithms work in real-time. Exclusively made in C.
