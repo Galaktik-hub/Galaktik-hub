@@ -3,7 +3,7 @@
 
 # 💫 Sobre mí
 🔭 Actualmente estoy trabajando en varios proyectos universitarios
-🌱 Estoy aprendiendo C++.
+🌱 Estoy aprendiendo Rust y C++.
 📝 Estoy haciendo un curso de BUT Informatique en la universidad Gustave Eiffel.
 💼 Actualmente estoy trabajando como Aprendiz de Desarrollador de Software en Thales.
 
