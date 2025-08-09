@@ -3,7 +3,7 @@
 
 # 💫 About Me
 🔭 I'm currently working on several university projects<br>
-🌱 I’m currently learning C++<br>
+🌱 I’m currently learning Rust and C++<br>
 📝 I'm studying at the Université Gustave Eiffel and following a computer science course<br>
 💼 I'm currently working as an Apprentice Software Developer at Thales<br>
 
